@@ -19,3 +19,5 @@ List of available arguments for "Laurea Magistrale" theses in nuclear physics
 8) FOOT theory (in collaboration with R. Spighi, INFN):
 
 9) (e,e'p) scattering (in collaboration with C. Giusti, Pavia U.):
+
+10) Machine learning applications to nuclear physics
