@@ -1,4 +1,4 @@
-# MasterThesis
+# MasterTheses
 List of available arguments for "Laurea Magistrale" theses in nuclear physics
 
 1) Double folding (in collaboration with M. Vorabbi, BNL): 
