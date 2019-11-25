@@ -29,4 +29,4 @@ List of available arguments for "Laurea Magistrale" theses in nuclear physics
 
 10) Machine learning applications to nuclear physics: see the folder
 
-11) Collective modes and quantum phase transitions in nuclei:
+11) Collective modes and quantum phase transitions in nuclei: see the folder
