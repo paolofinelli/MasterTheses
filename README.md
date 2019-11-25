@@ -5,7 +5,8 @@ List of available arguments for "Laurea Magistrale" theses in nuclear physics
   development of an optical potential for nucleus-nucleus scattering
 
 2) Faddeev equations (in collaboration with M. Vorabbi, BNL): 
-  study of alpha-alpha systems within a few-boy approximation
+  study of alpha-alpha systems within a few-boy approximation, ground state and excited states of alpha cluster
+  systems
 
 3) Inverse Kohn Sham
   mean field approaches for finite nuclei with microscopic "ab-initio" potentials
@@ -17,14 +18,15 @@ List of available arguments for "Laurea Magistrale" theses in nuclear physics
 5) Pandora experiment (in collaboration with A. Mengoni, ENEA):
   Beta decay processes in a plasma environment
   
-6) Trojan Horse Method:
+6) Trojan Horse Method
 
-7) nTOF theory (in collaboration with C. Massimi, DIFA):
+7) nTOF theory (in collaboration with C. Massimi, DIFA): high-energy fission processes, high energy
+  pn scattering (Glauber Theory)
 
-8) FOOT theory (in collaboration with R. Spighi, INFN):
+8) FOOT theory (in collaboration with R. Spighi, INFN): to be defined
 
-9) (e,e'p) scattering (in collaboration with C. Giusti, Pavia U.):
+9) Quasielastic electron (e,e'p) scattering (in collaboration with C. Giusti, Pavia U.): see the folder
 
-10) Machine learning applications to nuclear physics:
+10) Machine learning applications to nuclear physics: see the folder
 
 11) Collective modes and quantum phase transitions in nuclei:
