@@ -30,3 +30,5 @@ List of available arguments for "Laurea Magistrale" theses in nuclear physics
 10) Machine learning applications to nuclear physics: see the folder
 
 11) Collective modes and quantum phase transitions in nuclei: see the folder
+
+12) Relevant topics in neutron stars theory: Exotic neutron stars, Axion cooling, BCS-BEC crossover
