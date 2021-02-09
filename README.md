@@ -16,10 +16,10 @@ List of available arguments for "Laurea Magistrale" theses in nuclear physics
   development of local version of successful non-local potentials and applications with FRESCO and TALYS codes
   
 6) Quantum computing in nuclear physics: Toy model for simple nuclear physics applications for quantum computers 
-  
-7) Trojan Horse Method: see the folder
 
-8) Quasielastic electron (e,e'p) scattering (in collaboration with C. Giusti, Pavia U.): see the folder
+7) Quasielastic electron (e,e'p) scattering (in collaboration with C. Giusti, Pavia U.): see the folder
+
+8) Trojan Horse Method: see the folder
 
 9) Machine learning applications to nuclear physics: see the folder
 
