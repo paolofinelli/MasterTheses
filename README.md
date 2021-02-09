@@ -1,34 +1,28 @@
 # MasterTheses
 List of available arguments for "Laurea Magistrale" theses in nuclear physics
 
-1) Double folding (in collaboration with M. Vorabbi, BNL): 
+1) BCS-BEC crossover: Analysis of superfluid solutions in nuclear systems and study of the BCS-BEC crossover 
+
+2) Double folding (in collaboration with M. Vorabbi, BNL): 
   development of an optical potential for nucleus-nucleus scattering
 
-2) Faddeev equations (in collaboration with M. Vorabbi, BNL): 
+3) Faddeev equations (in collaboration with M. Vorabbi, BNL): 
   study of alpha-alpha systems within a few-boy approximation, ground state and excited states of alpha cluster
   systems
-
-3) Inverse Kohn Sham
-  mean field approaches for finite nuclei with microscopic "ab-initio" potentials
-
-4) Local Potentials (in collaboration with M. Vorabbi, BNL): 
-  development of local version of successful non-local potentials and
-  applications with FRESCO and TALYS codes
-
-5) Pandora experiment (in collaboration with A. Mengoni, ENEA):
-  Beta decay processes in a plasma environment
   
-6) Trojan Horse Method
+4) Intra-nuclear cascade: development of a numerical code for intranuclear cascade with microscopic interactions
 
-7) nTOF theory (in collaboration with C. Massimi, DIFA): high-energy fission processes, high energy
-  pn scattering (Glauber Theory)
+5) Local Potentials (in collaboration with M. Vorabbi, BNL): 
+  development of local version of successful non-local potentials and applications with FRESCO and TALYS codes
+  
+6) Quantum computing in nuclear physics: Toy model for simple nuclear physics applications for quantum computers 
+  
+7) Trojan Horse Method: see the folder
 
-8) FOOT theory (in collaboration with R. Spighi, INFN): to be defined
+8) Quasielastic electron (e,e'p) scattering (in collaboration with C. Giusti, Pavia U.): see the folder
 
-9) Quasielastic electron (e,e'p) scattering (in collaboration with C. Giusti, Pavia U.): see the folder
+9) Machine learning applications to nuclear physics: see the folder
 
-10) Machine learning applications to nuclear physics: see the folder
+10) Relevant topics in neutron stars theory: Exotic neutron stars, Axion cooling: see the folder
 
-11) Collective modes and quantum phase transitions in nuclei: see the folder
 
-12) Relevant topics in neutron stars theory: Exotic neutron stars, Axion cooling, BCS-BEC crossover
